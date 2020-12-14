@@ -1,6 +1,6 @@
 {
-  "name" : "handsomegyr/jinritemai",
-  "description" : "抖店开放平台sdk",
+  "name" : "qq1052663897/douyinxiaodian-sdk",
+  "description" : "抖音小店sdk",
   "require" : {
     "php" : ">=5.5",
     "guzzlehttp/guzzle": "^6.2"
@@ -18,9 +18,9 @@
     "friendsofphp/php-cs-fixer": "^2.13"
   },
   "authors" : [ {
-    "name" : "郭永荣",
-    "email" : "handsomegyr@gmail.com",
-    "homepage" : "http://github.com/handsomegyr/"
+    "name" : "张腾飞",
+    "email" : "1052663897@qq.com",
+    "homepage" : "http://github.com/qq1052663897/"
   } ],
   "keywords" : [ 
 	"jinritemai",
@@ -34,7 +34,7 @@
   },
   "license" : "MIT",
   "type" : "library",
-  "homepage" : "http://github.com/handsomegyr/jinritemai",
+  "homepage" : "http://github.com/qq1052663897/douyinxiaodian-sdk",
   "scripts": {
 	"clean": "rm -rf composer.lock build/ vendor/ && mkdir build",
 	"check": [
