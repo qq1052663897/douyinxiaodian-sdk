@@ -41,7 +41,7 @@ namespace Jinritemai\Request\Address;
  * "message": "success"
  * }
  */
-class DetailRequest extends \Jinritemai\Request\Base
+class ProvinceListRequest extends \Jinritemai\Request\Base
 {
 	// API名
 	protected $methodName = "address/provinceList";
